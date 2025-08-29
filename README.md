@@ -52,6 +52,11 @@ Install from [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/better-o
 
 Download the released .crx file in [releases page](https://github.com/cnwangjie/better-onetab/releases) and drag it to chrome extensions page.
 
+If installing using .crx file does not work for you try this:
+1. Git clone this repo
+3. Open chrome://extensions
+4. Click LOAD UNPACKED and select the ./dist folder
+
 Build your own from following steps：
 
 ### Development
